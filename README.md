@@ -1,7 +1,7 @@
 # PayTM : A Fintech Project
 
 # Steps
-- Clone the repository ``` git clone https://github.com/NailwalLakshay/paytm-wallet-project.git ```
+- Clone the repository ``` git clone https://github.com/klnswamy1702/paytm-wallet.git```
 - Install Dependency  ``` npm install ```
 - Create the .env files and secrets similar to .env.example
 - Get yourself a postgress db url from neon or could create one using docker
